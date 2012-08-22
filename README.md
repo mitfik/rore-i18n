@@ -17,8 +17,8 @@ Run:
 Answer for question what languages you want to use. Remember that you need to have locales files for each language to make it work (e.g. config/locales/pl.yml)
 
 ## Supported languages:
-*en
-*pl
+* en
+* pl
 
 If you are interested to add support for another langauges, just take one of existing one and translate it. After that make pull request with it.
 
