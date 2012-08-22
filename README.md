@@ -8,7 +8,7 @@ i18n with globalize for ror-ecommerce
 
 Add  to your Gemfile:
 
-    gem "rore-i18n", :git => "git://github.com/mitfik/rore-i18n.git", :brach => "stable"
+    gem "rore-i18n", :git => "git://github.com/mitfik/rore-i18n.git"
 
 Run:
 
