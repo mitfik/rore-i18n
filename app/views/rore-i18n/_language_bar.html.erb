@@ -1,0 +1,5 @@
+<ul id="main-language-tabs">
+  <% GlobalConstants::LANGUAGES.each do |lang| %>
+    <li> <%= link_to lang, :locale => lang.to_sym %></li>
+  <% end %>
+</ul>

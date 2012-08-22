@@ -1,0 +1,9 @@
+Description:
+    Install and configure rore-i18n
+
+Example:
+    rails generate rore_i18n
+
+    This will create:
+        config/initializers/rore-i18n.rb
+        and copy all migration to db/migrate
