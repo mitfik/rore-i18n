@@ -4,12 +4,6 @@ rore_i18n
 i18n with globalize for ror-ecommerce 
 
 
-Add by manual or use rake task for that
-config/initializers/rore-i18n.rb
-
-GlobaleConstants::LANGUAGES = ["en", "pl"]
-
-
 ## How to install
 
 Add  to your Gemfile:
