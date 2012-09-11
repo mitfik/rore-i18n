@@ -14,7 +14,14 @@ Run:
 
     rails g rore_i18n
 
-Answer for question what languages you want to use. Remember that you need to have locales files for each language to make it work (e.g. config/locales/pl.yml)
+Add settings in `config/settings.yml` in your ror_ecommarce
+
+    languages:
+      - pl
+      - en
+
+
+Remember that you need to have locales files for each language to make it work (e.g. config/locales/pl.yml)
 
 ## Supported/included languages:
 * en
